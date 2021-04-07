@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url('https://wallpapercave.com/wp/viRjdLn.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Open Sans', sans-serif 
+}
+section{
+    margin: 0 auto;
+    max-width:700px;
+    margin-top: 100px;
+    background-color:black;
+    border: 5px solid white;
+    padding: 15px;
+    border-radius: 5px;
+}
+section h1{
+    text-align: center;
+    font-size: 25px;
+    margin: 15px 0;
+    color: white;
+    
+}
+header{
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bedb362-1325-47fe-8fb8-8a1224de0221/de22q2u-3b016594-6a48-427e-b893-11f8063c76d6.png/v1/fill/w_1280,h_427,q_80,strp/akatsuki_twitter_header_by_sailortrekkie92_de22q2u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00MjciLCJwYXRoIjoiXC9mXC8wYmVkYjM2Mi0xMzI1LTQ3ZmUtOGZiOC04YTEyMjRkZTAyMjFcL2RlMjJxMnUtM2IwMTY1OTQtNmE0OC00MjdlLWI4OTMtMTFmODA2M2M3NmQ2LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Sd8an9qtahZnTco-2nCRBl-_ODy3-EL9RT3X8xGxa3M');
+    background-size: cover;
+    height: 80px;
+    border-radius: 5px;
+    
+}
+.projetos{
+    padding: 15px;
+    background-color:#ccc;
+  /*   background-image: url(''); */
+    background-size: cover;
+    background-position:top right;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.projetos h2{
+    margin-bottom: 15px;
+}
+.projetos ul{
+    list-style:none;
+}
+.projetos ul li{
+    margin-bottom: 5px;
+}
+.projetos a {
+    text-decoration: none;
+}
+.img-perfil{
+    width:150px;
+    height:150px;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+    transform: translatey(-50%);
+    border: 8px solid white;
+}
+.redes{
+    text-align: center;
+    background-color: #ccc;
+    padding: 30px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.redes a{
+    color: #ccc;
+  }
+.redes img{
+    width: 10%;
+}
+.redes li{
+    display: inline;
+    margin-right: 15px;
+}
+  
